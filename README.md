@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Amateur Programmer
 ------------------
 
-I am leraning to code since 5 years I have started with python. Now I learn C# and HTML. I am 16 years old
+I am learning to code since 5 years. I have started with python. Now I learn C# and HTML. I am 16 years old
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [yigitaliclik@gmail.com](mailto:yigitaliclik@gmail.com)
