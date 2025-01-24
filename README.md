@@ -4,9 +4,17 @@
 
 This library allows you to scrape player data from Transfermarkt.
 
+# Usage 
+```bash
+from players_yach import scrape_team
+
+print(scrape_team("https://www.transfermarkt.com/manchester-united/startseite/verein/985")) #Enter the transfermarkt url
+```
 ## Installation
 
 You can install the package using pip:
 
 ```bash
 pip install players-ftbl12
+
+
